@@ -3,10 +3,10 @@ function Hello(name = "") {
         return undefined;
     }
 
-    if (name.trim() === "") {
+   /* if (name.trim() === "") {
         return "Hello!";
     }
-    
+    */
     return "Hello " + name + "!";
 }
 module.exports = Hello
