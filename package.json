@@ -1,0 +1,22 @@
+{
+  "name": "js-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QAEkaterina/JS-Test.git"
+  },
+  "author": "Ekaterina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QAEkaterina/JS-Test/issues"
+  },
+  "homepage": "https://github.com/QAEkaterina/JS-Test#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
