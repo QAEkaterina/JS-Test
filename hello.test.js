@@ -16,6 +16,7 @@ test("Function should return Hello for empty input", () => {
     expect(Hello()).toBe('Hello!');
     expect(Hello("")).toBe("Hello!");
     expect(Hello(" ")).toBe("Hello!");
+    expect(Hello("  ")).toBe("Hello!");
 });
 
 
