@@ -20,7 +20,19 @@ test("Valid smileys should return 0", () => {
     expect(countSmileys([':}',':~)',';~D',':)'])).toBe(3);
   });
 
+  test("Valid smileys should return 0", () => {
+    expect(countSmileys([])).toBe(0);
+  });
 
+  test("Valid smileys should return 0", () => {
+    expect(countSmileys(['(◕‿◕)', 'o(^▽^)o'])).toBe(0);
+  });
 
+  test("Valid smileys should return 0", () => {
+    expect(countSmileys([':3', ':8', '=D', '<3'])).toBe(0);
+  });
 
+  test("Valid smileys should return 4", () => {
+    expect(countSmileys([':~D',':~)',';~D',':~)'])).toBe(4);
+  });
 

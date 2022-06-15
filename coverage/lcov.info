@@ -46,9 +46,9 @@ FN:1,countSmileys
 FN:2,(anonymous_1)
 FNF:2
 FNH:2
-FNDA:5,countSmileys
-FNDA:20,(anonymous_1)
-DA:2,20
+FNDA:9,countSmileys
+FNDA:30,(anonymous_1)
+DA:2,30
 DA:4,1
 LF:2
 LH:2
