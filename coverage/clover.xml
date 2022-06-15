@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1655293250242" clover="3.2.0">
-  <project timestamp="1655293250242" name="All files">
+<coverage generated="1655293661885" clover="3.2.0">
+  <project timestamp="1655293661885" name="All files">
     <metrics statements="15" coveredstatements="15" conditionals="5" coveredconditionals="5" methods="7" coveredmethods="7" elements="27" coveredelements="27" complexity="0" loc="15" ncloc="15" packages="1" files="4" classes="4"/>
     <file name="function.js" path="C:\Users\bekat\Project\code\JS-Test\function.js">
       <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
@@ -21,7 +21,7 @@
     </file>
     <file name="smileys.js" path="C:\Users\bekat\Project\code\JS-Test\smileys.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
-      <line num="2" count="30" type="stmt"/>
+      <line num="2" count="33" type="stmt"/>
       <line num="4" count="1" type="stmt"/>
     </file>
     <file name="sum.js" path="C:\Users\bekat\Project\code\JS-Test\sum.js">
